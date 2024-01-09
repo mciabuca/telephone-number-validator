@@ -1,0 +1,13 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#user-input {
+    margin-bottom: 10px;
+}
+
+#results-div {
+    margin-top: 20px;
+    font-weight: bold;
+}
